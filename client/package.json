@@ -1,0 +1,27 @@
+{
+  "name": "ultr7a-mixtape",
+  "version": "0.0.1",
+  "description": "I can haz become multimedia publication site generator, and cms 😸",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultr7A/mixtape.git"
+  },
+  "keywords": [
+    "multimedia",
+    "magazine",
+    "blog",
+    "publication",
+    "site-generator",
+    "cms"
+  ],
+  "author": "ultr7A.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ultr7A/mixtape/issues"
+  },
+  "homepage": "https://github.com/ultr7A/mixtape#readme"
+}

@@ -1,0 +1,15 @@
+#!/bin/bash
+
+#  Create Life-Forms 
+mkdir model;
+mkdir seed;
+mkdir surface;
+
+#  Define Models
+mkdir model/construction;
+mkdir model/reference;
+mkdir model/variant;
+
+#  Create Database
+touch "surface/$1.sql"
+
